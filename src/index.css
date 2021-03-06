@@ -1,0 +1,89 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+/* CSS for index.html  */
+
+/* Parallax images below/above main content */
+.parallax-container {
+  height: 400px;
+}
+img{
+max-width: 100%;
+height: auto;
+}
+
+/* MAIN CONTENT */
+
+/* Background Patterns from https://www.toptal.com/designers/subtlepatterns/ */
+.section {
+background-image: url(https://postimg.cc/PpjhzWwd);
+}
+
+.collapsible-body {
+ background-image: url(https://i.postimg.cc/R0jhFkC3/grey-wash-wall-2-X.png);
+}
+
+
+/* Profile Picture */
+.me {
+max-height: fit-content;
+width: auto;
+}
+
+
+.section_edit {
+background-image: none;
+}
+
+
+.header{
+color: black;
+text-shadow: -2px 2px 2px grey;
+}
+
+/* Text Stuff */
+h3, h4 {
+margin-bottom: -10px;
+color: black;
+text-shadow: 2px 2px 2px white;
+}
+h5 {
+color: rgb(27, 27, 27);
+text-shadow: 1.3px 1px 1px white;
+}
+
+h6, .li {
+color: white;
+text-shadow: 2px 2px 2px rgb(66, 66, 66);
+list-style-type: circle !important
+}
+
+.li{
+line-height: 2rem;
+}
+
+hr {
+border-top: 1px solid #8c8b8b;
+border-bottom: 1px solid #fff;
+}
+
+/* Date-Night Aplication Screenshot */
+.dateNight {
+height: auto;
+width: auto;
+}
+
+.bio {
+margin-top: 2rem;
+}
