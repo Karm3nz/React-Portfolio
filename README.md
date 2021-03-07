@@ -34,7 +34,7 @@ CH Portfolio website allows the web creator to visually showcase best work, disp
 
 To arrive at Portfolio web page, type in :   on the address bar on the web browser and hit the "enter" key.
 
-![Portfolio Home Screenshot](portfolio_screenshot.png)
+![Portfolio Home Screenshot](src/assets/react_profile_screenshot.png)
 
 
 ## Credits
