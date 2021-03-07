@@ -32,7 +32,7 @@ This is my portfolio webpage created with React!
 
 CH Portfolio website allows the web creator to visually showcase best work, display accomplishments, skills and potential.
 
-To arrive at Portfolio web page, type in :   on the address bar on the web browser and hit the "enter" key.
+To arrive at Portfolio web page, type in :https://karm3nz.github.io/React-Portfolio/   on the address bar on the web browser and hit the "enter" key.
 
 ![Portfolio Home Screenshot](src/assets/react_profile_screenshot.png)
 
