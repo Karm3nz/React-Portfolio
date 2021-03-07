@@ -52,6 +52,9 @@ Patterns:
 * https://www.toptal.com/designers/subtlepatterns/gplay/
 * https://www.toptal.com/designers/subtlepatterns/grey-washed-wall/
 
+Logo:
+* https://www.pngaaa.com/detail/2508011 
+
 ## License
 
 MIT License

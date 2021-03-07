@@ -1,12 +1,16 @@
-// import { BrowserRouter as Router, Route } from "react-router-dom";
+// import React from "react";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
+import Quotes from "../src/pages/quotes";
 import Wrapper from "../src/components/Wrapper";
 import Footer from "./components/Footer";
 
 function App() {
   return (
+    <Router>
     <div>
       <Navbar />
+      <Route exact path="/quotes" component={Quotes} />
       <div>
         {/* Parallax Container Picture 1 */}
         <div className="parallax-container">
@@ -24,6 +28,8 @@ function App() {
       </div>
       <Footer />
     </div>
+    </Router>
+    
   );
 }
 

@@ -13,6 +13,22 @@ function Projects() {
                 </section>
                 <hr></hr>
                 {/* <!--Listed Projects--> */}
+                {/* <!--Employee Directory--> */}
+                <section class="row">
+                    <section class="col">
+                        <h5>Employee Directory</h5>
+                        <img src= "https://i.postimg.cc/2jwMCFFk/employee-directory-screenshot.png" alt= "Employee Directory Screenshot"></img>
+                    </section>
+                </section>
+                <section class="row">
+                    <section class="col">
+                        <ul>
+                        <li class= "li"> The <a href= "https://karm3nz.github.io/Employee-Directory/">link</a> to Employee Directory Aplication.</li>
+                        <li class= "li"> The <a href= "https://github.com/Karm3nz/Employee-Directory">link</a> to Employee Directory Github repository.</li>
+                        </ul>
+                    </section>
+                </section> 
+
                 {/* <!--Budget Tracker--> */}
                 <section class="row">
                     <section class="col">
@@ -23,8 +39,8 @@ function Projects() {
                 <section class="row">
                     <section class="col">
                         <ul>
-                        <li class= "li"> The <a href= "https://track-your-budget-offline.herokuapp.com/">link</a> to Workout Tracker Aplication.</li>
-                        <li class= "li"> The <a href= "https://github.com/Karm3nz/Budget-Tracker">link</a> to Workout Tracker Github repository.</li>
+                        <li class= "li"> The <a href= "https://track-your-budget-offline.herokuapp.com/">link</a> to Budget Tracker Aplication.</li>
+                        <li class= "li"> The <a href= "https://github.com/Karm3nz/Budget-Tracker">link</a> to Budget Tracker Github repository.</li>
                         </ul>
                     </section>
                 </section> 
